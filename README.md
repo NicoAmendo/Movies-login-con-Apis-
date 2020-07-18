@@ -1,6 +1,4 @@
 # proyecto-sequelize
-Hola a todes!
-
 Les paso un proyecto modelo que estuve armando de en Node, Express y muuucho sequelize
 
 https://github.com/dariosus/proyecto-sequelize
